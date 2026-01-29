@@ -31,4 +31,4 @@ if __name__ == "__main__":
     init_db()
     log_event("Silence detected")
     log_event("Network unstable")
-    print("Events saved successfully!")
+    print("Event saved successfully!")
